@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/therealisaacf/pokemon-page-pictures",
   "dependencies": {
+    "async": "^1.5.1",
     "phantomjs": "^1.9.19"
   }
 }
